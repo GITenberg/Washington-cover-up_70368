@@ -1,0 +1,34 @@
+_repo: Washington-cover-up_70368
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mollenhoff, Clark R. (Clark Raymond)
+    birthdate: 1921
+    deathdate: 1991
+    gutenberg_agent_id: '55733'
+    url: http://www.gutenberg.org/2009/agents/55733
+    wikipedia: https://en.wikipedia.org/wiki/Clark_R._Mollenhoff
+description: ''
+gutenberg_issued: '2023-03-24'
+identifiers:
+  gutenberg: '70368'
+  lccn: '62013288'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3377180
+pgterms:marc905: 20190902071725mollenhoff
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bDoubleday & Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Government information -- United States'
+- !lcsh 'Executive privilege (Government information) -- United States'
+- !lcc 'JK'
+- GITenberg
+title: Washington cover-up
+url: http://www.gutenberg.org/ebooks/70368
