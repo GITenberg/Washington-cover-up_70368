@@ -1,5 +1,8 @@
 _repo: Washington-cover-up_70368
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70368-h/images/cover.jpg
 creator:
   author:
     agent_name: Mollenhoff, Clark R. (Clark Raymond)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55733
     wikipedia: https://en.wikipedia.org/wiki/Clark_R._Mollenhoff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70368#Washington-cover-up
 gutenberg_issued: '2023-03-24'
 identifiers:
   gutenberg: '70368'
